@@ -1,7 +1,5 @@
 from pip._vendor.distlib.compat import raw_input
 
-from clock import ping
-
 # cheatsheet
 # https://medium.com/nestedif/cheatsheet-python-for-java-developers-98f75c94a1a
 # https://www.python.org/dev/peps/pep-0008/
